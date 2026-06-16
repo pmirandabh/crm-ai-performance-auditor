@@ -181,6 +181,22 @@ Responsável pela concepção e estruturação completa da solução:
 
 ---
 
+## 💰 Viabilidade Financeira
+
+Além dos ganhos operacionais, o projeto contempla uma análise de custos e retorno sobre investimento (ROI) para validar a utilização de Inteligência Artificial aplicada à gestão comercial em larga escala.
+
+Benefícios Financeiros
+Auditoria automatizada de 100% das negociações monitoradas.
+Redução superior a 95% dos custos quando comparada a processos manuais de auditoria e acompanhamento comercial.
+Baixo custo operacional utilizando modelos de IA sob demanda e tecnologias open-source.
+Escalabilidade da operação sem necessidade de aumento proporcional da equipe de gestão e monitoria.
+Atualização diária dos indicadores e análises, reduzindo o esforço operacional dos gestores.
+Impacto no Negócio
+
+A solução transforma o acompanhamento comercial tradicional em um processo contínuo e orientado por dados, permitindo identificar riscos, oportunidades e gargalos em todo o pipeline de vendas.
+
+---
+
 ## 📚 Aprendizados do Projeto
 
 Durante o desenvolvimento desta solução foram aprofundados conhecimentos em:
